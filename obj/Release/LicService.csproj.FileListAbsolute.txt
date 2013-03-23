@@ -1,0 +1,7 @@
+C:\LicenseService\bin\LicService.dll
+C:\LicenseService\bin\LicService.pdb
+C:\LicenseService\bin\LogicNP.CryptoLicensing.Generator.dll
+C:\LicenseService\bin\LogicNP.CryptoLicensing.Generator.xml
+C:\LicenseService\obj\Release\LicService.csprojResolveAssemblyReference.cache
+C:\LicenseService\obj\Release\LicService.dll
+C:\LicenseService\obj\Release\LicService.pdb

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LicService">
+</Property><Property Name="Solution File" Value="C:\LicenseService\LicService.sln">
+</Property><Property Name="Date" Value="sexta-feira, 22 de março de 2013">
+</Property><Property Name="Time" Value="20:36">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LicService.sln" Description="File successfully backed up as C:\LicenseService\Backup\LicService.sln">
+</Event><Event ErrorLevel="0" Project="LicService" Source="LicService.csproj" Description="Project file successfully backed up as C:\LicenseService\Backup\LicService.csproj">
+</Event><Event ErrorLevel="0" Project="LicService" Source="activationconsole\activatemachine.aspx.cs" Description="File successfully backed up as C:\LicenseService\Backup\activationconsole\activatemachine.aspx.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="activationconsole\activatemachine.aspx.designer.cs" Description="File successfully backed up as C:\LicenseService\Backup\activationconsole\activatemachine.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="activationconsole\listactivations.aspx.cs" Description="File successfully backed up as C:\LicenseService\Backup\activationconsole\listactivations.aspx.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="activationconsole\listactivations.aspx.designer.cs" Description="File successfully backed up as C:\LicenseService\Backup\activationconsole\listactivations.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="activationconsole\DashBoard.ascx.cs" Description="File successfully backed up as C:\LicenseService\Backup\activationconsole\DashBoard.ascx.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="activationconsole\DashBoard.ascx.designer.cs" Description="File successfully backed up as C:\LicenseService\Backup\activationconsole\DashBoard.ascx.designer.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="ecommerce\clickbank.aspx.cs" Description="File successfully backed up as C:\LicenseService\Backup\ecommerce\clickbank.aspx.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="ecommerce\clickbank.aspx.designer.cs" Description="File successfully backed up as C:\LicenseService\Backup\ecommerce\clickbank.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="ecommerce\fastspring.aspx.cs" Description="File successfully backed up as C:\LicenseService\Backup\ecommerce\fastspring.aspx.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="ecommerce\fastspring.aspx.designer.cs" Description="File successfully backed up as C:\LicenseService\Backup\ecommerce\fastspring.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="ecommerce\paypal.aspx.cs" Description="File successfully backed up as C:\LicenseService\Backup\ecommerce\paypal.aspx.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="ecommerce\paypal.aspx.designer.cs" Description="File successfully backed up as C:\LicenseService\Backup\ecommerce\paypal.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="ecommerce\plimus.aspx.cs" Description="File successfully backed up as C:\LicenseService\Backup\ecommerce\plimus.aspx.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="ecommerce\plimus.aspx.designer.cs" Description="File successfully backed up as C:\LicenseService\Backup\ecommerce\plimus.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="ecommerce\regnow.aspx.cs" Description="File successfully backed up as C:\LicenseService\Backup\ecommerce\regnow.aspx.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="ecommerce\regnow.aspx.designer.cs" Description="File successfully backed up as C:\LicenseService\Backup\ecommerce\regnow.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="ecommerce\shareit.aspx.cs" Description="File successfully backed up as C:\LicenseService\Backup\ecommerce\shareit.aspx.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="ecommerce\shareit.aspx.designer.cs" Description="File successfully backed up as C:\LicenseService\Backup\ecommerce\shareit.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="install\import.aspx.cs" Description="File successfully backed up as C:\LicenseService\Backup\install\import.aspx.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="install\import.aspx.designer.cs" Description="File successfully backed up as C:\LicenseService\Backup\install\import.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="install\install.aspx.cs" Description="File successfully backed up as C:\LicenseService\Backup\install\install.aspx.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="install\install.aspx.designer.cs" Description="File successfully backed up as C:\LicenseService\Backup\install\install.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="LicenseService.cs" Description="File successfully backed up as C:\LicenseService\Backup\LicenseService.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\LicenseService\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LicService" Source="ecommerce\clickbank.aspx" Description="File successfully backed up as C:\LicenseService\Backup\ecommerce\clickbank.aspx">
+</Event><Event ErrorLevel="0" Project="LicService" Source="ecommerce\paypal.aspx" Description="File successfully backed up as C:\LicenseService\Backup\ecommerce\paypal.aspx">
+</Event><Event ErrorLevel="0" Project="LicService" Source="ecommerce\plimus.aspx" Description="File successfully backed up as C:\LicenseService\Backup\ecommerce\plimus.aspx">
+</Event><Event ErrorLevel="0" Project="LicService" Source="ecommerce\regnow.aspx" Description="File successfully backed up as C:\LicenseService\Backup\ecommerce\regnow.aspx">
+</Event><Event ErrorLevel="0" Project="LicService" Source="ecommerce\shareit.aspx" Description="File successfully backed up as C:\LicenseService\Backup\ecommerce\shareit.aspx">
+</Event><Event ErrorLevel="0" Project="LicService" Source="install\import.aspx" Description="File successfully backed up as C:\LicenseService\Backup\install\import.aspx">
+</Event><Event ErrorLevel="0" Project="LicService" Source="install\install.aspx" Description="File successfully backed up as C:\LicenseService\Backup\install\install.aspx">
+</Event><Event ErrorLevel="0" Project="LicService" Source="install\login.aspx" Description="File successfully backed up as C:\LicenseService\Backup\install\login.aspx">
+</Event><Event ErrorLevel="0" Project="LicService" Source="Service.asmx" Description="File successfully backed up as C:\LicenseService\Backup\Service.asmx">
+</Event><Event ErrorLevel="0" Project="LicService" Source="Web.config" Description="File successfully backed up as C:\LicenseService\Backup\Web.config">
+</Event><Event ErrorLevel="0" Project="LicService" Source="activationconsole\activatemachine.aspx" Description="File successfully backed up as C:\LicenseService\Backup\activationconsole\activatemachine.aspx">
+</Event><Event ErrorLevel="0" Project="LicService" Source="activationconsole\listactivations.aspx" Description="File successfully backed up as C:\LicenseService\Backup\activationconsole\listactivations.aspx">
+</Event><Event ErrorLevel="0" Project="LicService" Source="activationconsole\DashBoard.ascx" Description="File successfully backed up as C:\LicenseService\Backup\activationconsole\DashBoard.ascx">
+</Event><Event ErrorLevel="0" Project="LicService" Source="ecommerce\fastspring.aspx" Description="File successfully backed up as C:\LicenseService\Backup\ecommerce\fastspring.aspx">
+</Event><Event ErrorLevel="0" Project="LicService" Source="install\web.config" Description="File successfully backed up as C:\LicenseService\Backup\install\web.config">
+</Event><Event ErrorLevel="0" Project="LicService" Source="activationconsole\login.aspx" Description="File successfully backed up as C:\LicenseService\Backup\activationconsole\login.aspx">
+</Event><Event ErrorLevel="0" Project="LicService" Source="activationconsole\web.config" Description="File successfully backed up as C:\LicenseService\Backup\activationconsole\web.config">
+</Event><Event ErrorLevel="1" Project="LicService" Source="LicService.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="LicService" Source="LicService.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LicService" Source="LicService.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LicService.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LicService.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LicService" Source="LicService.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
